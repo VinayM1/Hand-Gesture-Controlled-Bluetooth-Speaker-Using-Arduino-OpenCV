@@ -1,0 +1,2 @@
+# Hand-Gesture-Controlled-Bluetooth-Speaker-Using-Arduino-OpenCV
+This project focuses on developing a smart Bluetooth speaker system that can be controlled using hand gestures, eliminating the need for physical buttons. By integrating Arduino with OpenCV-based computer vision and the MH-M38 Bluetooth audio module, users can play, pause, and control music playback wirelessly using simple hand movements.
